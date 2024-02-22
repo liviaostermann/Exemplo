@@ -1,21 +1,24 @@
-TesteINFO22
-Subtitulo
+# TesteINFO22
+## Subtitulo
 Exemplo de criação de repositório no Github
 
-Negrito italico
+**Negrito**
+*italico*
 
 Lista numerado
+1. um
+2. dois
 
-um
-dois
 Lista não ordenada
+* teste
+* teste
 
-teste
-teste
 Lista de tarefas
+- [ ] tarefa 1
+- [x] tarefa 2
 
- tarefa 1
- tarefa 2
-Imagem Logo do IFC
+Imagem
+![Logo do IFC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQjx6NAcQZr7iLuE-QysKxy6aq2VedXRtmnS1WtrYbw&s)
 
-Código (entre crases) print("hello")
+Código (entre crases)
+`print("hello")`
